@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{C1DA5838-B9ED-4C9A-8FF2-B5BB4E6EBA2A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "İşyeri Cihaz Otomasyonu", "İşyeri Cihaz Otomasyonu\İşyeri Cihaz Otomasyonu.vdproj", "{115EA896-8DEB-44DF-95C7-7E04276D6FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1DA5838-B9ED-4C9A-8FF2-B5BB4E6EBA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DA5838-B9ED-4C9A-8FF2-B5BB4E6EBA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DA5838-B9ED-4C9A-8FF2-B5BB4E6EBA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DA5838-B9ED-4C9A-8FF2-B5BB4E6EBA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{115EA896-8DEB-44DF-95C7-7E04276D6FFE}.Debug|Any CPU.ActiveCfg = Debug
+		{115EA896-8DEB-44DF-95C7-7E04276D6FFE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D2C573A-4A57-412D-ABB8-B25C66C53F17}
+	EndGlobalSection
+EndGlobal

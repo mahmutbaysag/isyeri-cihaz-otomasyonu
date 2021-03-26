@@ -1,0 +1,23 @@
+C:\Users\ITOPYA\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ITOPYA\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ITOPYA\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ITOPYA\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ITOPYA\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ITOPYA\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ITOPYA\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ITOPYA\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ITOPYA\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ITOPYA\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\astro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FORM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\astro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FORM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\astro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FORM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\astro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FORM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\astro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FORM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\astro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FORM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\astro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FORM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\astro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FORM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\İşyeri Cihaz Otomasyonu.exe.config
+C:\Users\astro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FORM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\İşyeri Cihaz Otomasyonu.exe
+C:\Users\astro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FORM\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\İşyeri Cihaz Otomasyonu.pdb
+C:\Users\astro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FORM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\İşyeri Cihaz Otomasyonu.exe
+C:\Users\astro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FORM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\İşyeri Cihaz Otomasyonu.pdb
+C:\Users\astro\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\FORM\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\İsyeriCihazOtomasyonu.Properties.Resources.resources
